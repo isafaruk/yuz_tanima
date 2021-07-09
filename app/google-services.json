@@ -33,6 +33,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310302422405:android:6c5d9046888d5523ebc0ec",
+        "android_client_info": {
+          "package_name": "com.example.yuz_tanima_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310302422405-sdlcfv69dlfkki87dsaf1kith0i1str6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPc5bpqiMJ6FIdgTctnhaiOxFOsuTtw6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310302422405-sdlcfv69dlfkki87dsaf1kith0i1str6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
